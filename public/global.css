@@ -1,0 +1,22 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+html {
+    height: 115%;
+
+}
+
+body {
+    min-height: 100%;
+    /* background-image: url("https://i.pinimg.com/originals/e8/13/0b/e8130b1f8d70a729297fbb148590ab58.jpg"); */
+     /* background-image: url("https://img.freepik.com/premium-vector/car-auto-service-mechanisms-cars-car-service-ux-dashboard-car-service_74231-1841.jpg?w=2000"); */
+ /* background-image: url("https://s19528.pcdn.co/wp-content/uploads/2021/04/DIY-Diagnostics-1024x512.jpg"); */
+
+     /* background-image: url("https://www.flir.com/globalassets/industrial/instruments/automotive/automotive-rd-hero.jpg");
+     background-position: bottom; */
+
+     background-image: url("https://www.verdict.co.uk/wp-content/uploads/2021/08/shutterstock_1177506811.jpg");
+     /* background-position: bottom; */
+ 
+}
+
+
